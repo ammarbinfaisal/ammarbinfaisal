@@ -21,4 +21,5 @@
   <li><a href="https://github.com/ammarbinfaisal/quran-app">quran-app</a> — a webapp for reading quran with translation or mushaf view</li>
   <li><a href="https://github.com/ammarbinfaisal/amizoo">amizoo</a> — an ergonomic portal over amity uni's amizone</li>
   <li><a href="https://github.com/ammarbinfaisal/blurharam">blurharam</a> — <em>(wip)</em> blur images on-device via a local vpn service</li>
+  <li><a href="https://github.com/ammarbinfaisal/verseline">verseline</a> — <em>(wip)</em> a language to help in video clips generation for my yt/insta pages</li>
 </ul>
