@@ -6,10 +6,10 @@
 <p align="center">a few lines in <em>abab</em> rhyme, reminiscing about the pre-llm era of recreational programming and the pinned repos which were made in the age when programming was joyous and coding was an art:</p>
 
 <p align="center">
-  these pins are what i built alone,<br>
-  across the pre-llm age.<br>
-  with every line of logic grown,<br>
-  upon a silent page.
+  <strong>these pins are what i built alone,</strong><br>
+  <strong>across the pre-llm age.</strong><br>
+  <strong>with every line of logic grown,</strong><br>
+  <strong>upon a silent page.</strong>
 </p>
 
 <br>
