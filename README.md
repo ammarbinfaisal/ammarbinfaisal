@@ -23,6 +23,7 @@
 </h4>
 
 <ul>
+  <li><a href="https://github.com/ammarbinfaisal/instrux">instrux</a> - instruct + ux — toggleable prompt blocks for coding agents</li>
   <li><a href="https://github.com/ammarbinfaisal/tabductor">tabductor</a> — an mcp + browser extension to control browser tabs/webpages</li>
   <li><a href="https://github.com/ammarbinfaisal/tarteel.tv">tarteel.tv</a> — a webapp for organising quran recitation clips</li>
   <li><a href="https://github.com/ammarbinfaisal/quran-app">quran-app</a> — a webapp for reading quran with translation or mushaf view</li>
